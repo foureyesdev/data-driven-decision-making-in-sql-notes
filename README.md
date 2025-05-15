@@ -1,4 +1,4 @@
-# 📊 Data-Driven Decision Making in SQLs
+# 📊 Data-Driven Decision Making in SQL
 
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue)
 
